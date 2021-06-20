@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216826711564",
+    "project_id": "chat-application-2df9b",
+    "storage_bucket": "chat-application-2df9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216826711564:android:9d8f8be05827b2cc59a829",
+        "android_client_info": {
+          "package_name": "com.coldcoder.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216826711564-kklebarstqpbl65iht06vbnmbvha21l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqA7C1-7LDFEhinpvTYZQfxW06QHKUBoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216826711564-kklebarstqpbl65iht06vbnmbvha21l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
